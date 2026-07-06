@@ -239,11 +239,6 @@ GitHub: https://github.com/pravin2007-ctrl
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License.
-
----
 
 ## ⭐ Support
 
